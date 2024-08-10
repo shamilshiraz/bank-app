@@ -1,0 +1,49 @@
+#mainHead{
+    font-size: 2rem;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#mainHead2{
+    font-family: "Bona Nova SC", serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+.onlinebanking{
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+}
+.payment{
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    margin-top: 50px;
+}
+.thebox{
+text-align: center; 
+   padding: 30px;
+   border: solid gray 3px;
+   height: 500px;
+   width: 300px;
+   margin-left: 40%;
+   border-radius: 4px;
+   background-color: #000000;
+   color: antiquewhite;
+   font-family: "Bona Nova SC", serif;
+   font-weight: 400;
+   font-style: normal;
+   text-align: center;
+}
+.form{
+    padding: 30px;
+    margin: 30px;
+}
+input{
+    margin-top: 15px;
+}
+button{
+    margin-top: 15px;
+}
